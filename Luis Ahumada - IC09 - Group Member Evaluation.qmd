@@ -1,0 +1,51 @@
+---
+title: "IC09 - Group Member Evaluation"
+author: "Luis Ahumada"
+format:
+  html:
+    toc: true
+    theme: cosmo
+    embed-resources: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Step 1: Group Member Evaluation
+
+The following evaluation reflects each group member's contributions throughout the quarter.
+
+| Member Name          | Grade (%) | MVP |
+|----------------------|-----------|-----|
+| Luis Ahumada (Self)  | 100%      | No  |
+| Spencer Conway       | 100%      | No  |
+| Carmen Jimenez       | 100%      | No  |
+| Leeann Lewis-Waddell | 110%      | Yes |
+| Georgia Monjarrez    | 100%      | No  |
+
+## Step 2: Group Member Contributions
+
+### Luis Ahumada (Self)
+
+I have helped with the sections that have been assigned to me and have also gone through and helped Lee review our documents. I have completed Project Object 3 and Analytics Objectives 3 for the CEP project. I have also helped the group set up some of the assignment GitHub Repos.
+
+### Spencer Conway
+
+Spencer has taken care of his sections and has also provided help when it was needed. He has been on top on his work and has always completed on time, or has communicated if he was going to be running a little late.
+
+### Carmen Jimenez
+
+Carmen has always had her parts done on time and always offers to help. She has taken care of her sections and has helped Lee keep track of important due dates.
+
+### Leeann Lewis-Waddell
+
+Lee has been the MVP of the group, she has helped set up Gitpages, communications, and has been on top of everything. She reviews and submits the assignments, and she is very good at communicating when she needs some help. Overall Lee has done an amazing job and has taken the role of being the lead.
+
+### Georgia Monjarrez
+
+Just like my other group mates, Georgia has always been on time and has communicated whenever she needed some more time. She has taken care of her sections and has also offered to do more if needed. Overall, the group has been really good at communicating, and getting things done. For the next step, we need to get together and review the edits that Dr. Kwok has suggested and see what we can do with the data we currently have.
+
+## Appendix 
+
+[Git Repo](https://github.com/lahumada63/IC09---Group-Member-Evaluation.git)
